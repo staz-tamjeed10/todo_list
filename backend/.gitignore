@@ -1,0 +1,65 @@
+# Python and Django specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.swp
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Development and environment-specific settings
+*.local
+*.sqlite3
+*.db
+*.log
+*.settings
+
+# Static and Media Files
+static/
+media/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Files to ignore when running collectstatic
+*.less
+*.scss
+*.sass
+*.coffee
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.woff
+*.ttf
+*.eot
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+.DS_Store
